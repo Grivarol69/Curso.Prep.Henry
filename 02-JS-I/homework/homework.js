@@ -185,17 +185,7 @@ function esPositivo(numero) {
   } else {
     return false;
   }
-  
-  
-  // switch (numero) {
-  //   case numero > 0:
-  //     return "Es positivo";
-  //   case numero < 0:
-  //     return "Es negativo";
-  //   default:
-  //     return false;
-  // }
-  
+    
 }
 
 function agregarSimboloExclamacion(str) {
